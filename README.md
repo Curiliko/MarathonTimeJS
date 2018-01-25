@@ -1,1 +1,2 @@
 # MarathonTimeJS
+This simple JavaScript program prompts a user to enter how long they take to complete half a marathon. The user must then identify whether the marathon course is hilly or not. If it is not hilly, the program doubles the inputted time and then adds 10 minutes to get an approximate time to complete a full marathon. The program will do a similar function but add 30 minutes instead of 10 to account for the hills on the course.
